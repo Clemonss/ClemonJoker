@@ -1,11 +1,9 @@
 {
-    "Enbjewels": false,
-    "Langjewels": ["Russian"],
-    "Timejewels": ["Kaliningrad", "Kirov", "Moscow", "Samara", "Saratov", "Volgograd", "Yekaterinburg", "Omsk", "Barnaul", "Krasnoyarsk", "Novosibirsk",
-    "Irkutsk", "Chita", "Vladivostok", "Magadan", "Sakhalin", "Srednekolymsk", "Anadyr", "Kamchatka", "Oral", "Almaty", "Baku", "Yerevan", "Minsk",
-    "Bishkek", "Chisinau", "Dushanbe", "Tashkent"],
+    "Enbjewels": true,
+    "Langjewels": ["Spanish"],
+    "Timejewels": ["Buenos_Aires"],
     "Linkjewels": 
     [ 
-          { "Lang":"Russian", "Links": [""]}
+          { "Lang":"Spanish", "Links": ["https://betworld.pro/go/4b0710f77f16426b092de4242aaa9b3e365b64d1eb0a0b0b/"]}
     ]
  }
